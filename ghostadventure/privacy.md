@@ -1,4 +1,4 @@
-# Ghost Adventure - Terms, Conditions & Privacy Policy
+# Ghost Adventure - Terms, Conditions and Privacy Policy
 
 ## Terms & Conditions
 
