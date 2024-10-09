@@ -1,8 +1,8 @@
-# Ghost Adventure - Terms, Conditions and Privacy Policy
+# Kombino - Terms, Conditions and Privacy Policy
 
 ## Terms & Conditions
 
-Santtu Hyvärinen built the Ghost Adventure game as a Free game. This SERVICE is provided by Santtu Hyvärinen at no cost and is intended for use as is.
+Santtu Hyvärinen built the Kombino game as a Free game. This SERVICE is provided by Santtu Hyvärinen at no cost and is intended for use as is.
 
 By downloading or using the game, these terms will automatically apply to you - you should make sure therefore that you read them carefully before using the game. You're not allowed to copy, or modify the game, any part of the game, or our trademarks in any way. You're not allowed to attempt to extract the source code of the game, and you also shouldn't try to translate the game into other languages, or make derivative versions. The game itself, and all the trademarks, copyright, database rights and other intellectual property rights related to it, still belong to Santtu Hyvärinen.
 
@@ -22,7 +22,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Ghost Adventure unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Kombino unless otherwise defined in this Privacy Policy.
 
 ### Information Collection and Use
 
